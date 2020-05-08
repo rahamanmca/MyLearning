@@ -1,5 +1,3 @@
-package com.fedex.test.jenkins.examples;
-
 public class Helloworld {
 
 	public static void main(String[] args) {
